@@ -1,0 +1,10 @@
+C:\Users\alish\Desktop\Mphasis\Day-14\Assignment20\Assignment20\bin\Debug\Assignment20.exe.config
+C:\Users\alish\Desktop\Mphasis\Day-14\Assignment20\Assignment20\bin\Debug\Assignment20.exe
+C:\Users\alish\Desktop\Mphasis\Day-14\Assignment20\Assignment20\bin\Debug\Assignment20.pdb
+C:\Users\alish\Desktop\Mphasis\Day-14\Assignment20\Assignment20\bin\Debug\ShapeAreaLib.dll
+C:\Users\alish\Desktop\Mphasis\Day-14\Assignment20\Assignment20\bin\Debug\ShapeAreaLib.pdb
+C:\Users\alish\Desktop\Mphasis\Day-14\Assignment20\Assignment20\obj\Debug\Assignment20.csproj.AssemblyReference.cache
+C:\Users\alish\Desktop\Mphasis\Day-14\Assignment20\Assignment20\obj\Debug\Assignment20.csproj.CoreCompileInputs.cache
+C:\Users\alish\Desktop\Mphasis\Day-14\Assignment20\Assignment20\obj\Debug\Assignment20.csproj.CopyComplete
+C:\Users\alish\Desktop\Mphasis\Day-14\Assignment20\Assignment20\obj\Debug\Assignment20.exe
+C:\Users\alish\Desktop\Mphasis\Day-14\Assignment20\Assignment20\obj\Debug\Assignment20.pdb
